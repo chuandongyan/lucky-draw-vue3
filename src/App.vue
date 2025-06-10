@@ -419,7 +419,7 @@ const toggle = (form) => {
     position: absolute;
     right: 10px;
     bottom: 10px;
-    color: #ccc;
+    color: #f40a0a;
     z-index: 1000;
     font-size: 12px;
   }
@@ -457,11 +457,11 @@ const toggle = (form) => {
     flex-wrap: wrap;
   }
   .itemres {
-    background: #fff;
+    background: #03f042;
     width: 160px;
     height: 160px;
     border-radius: 4px;
-    border: 1px solid #ccc;
+    border: 1px solid #03f042;
     line-height: 160px;
     font-weight: bold;
     margin-right: 20px;
@@ -481,7 +481,7 @@ const toggle = (form) => {
       width: 30px;
       height: 22px;
       line-height: 22px;
-      background-color: #fff;
+      background-color: #03f042;
       position: absolute;
       bottom: 0;
       left: 0;
